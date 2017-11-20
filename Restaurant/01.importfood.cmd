@@ -1,0 +1,1 @@
+mongoimport --db food --collection restaurants --drop --file restaurants.json
